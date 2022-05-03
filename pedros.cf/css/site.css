@@ -1,4 +1,12 @@
 
+@font-face {
+	font-family: 'lock-pass';
+	src: url('../fonts/lockpass.woff2') format('woff2'),
+	  url('../fonts/lockpass.woff') format('woff');
+	font-weight: 700;
+	font-style: normal;
+    }
+
 body {
 	background-color: #24272b;
 	padding: 50px;
@@ -6,6 +14,12 @@ body {
 	color: #727272;
 	font-weight: 400
 }
+
+footer{
+	color:#dfd9dc;
+	font-size:0.95em;
+	margin-top:3em;
+	text-align:right}
 
 h1 {
 	color: #791579;
