@@ -1,12 +1,5 @@
 /*!* Mobirise v4 theme (https://mobirise.com/)
 * Copyright 2017 Mobirise*/
-@font-face {
-	font-family: 'lock-pass';
-	src: url('../assets/fonts/lockpass.woff2') format('woff2'),
-	  url('../assets/fonts/lockpass.woff') format('woff');
-	font-weight: 700;
-	font-style: normal;
-    }
 .profile {
 	max-width: 67.5%;
     border-radius: 50%;
